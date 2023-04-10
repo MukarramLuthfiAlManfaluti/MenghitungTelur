@@ -1,2 +1,2 @@
 # MenghitungTelur
-Project Chicken Tugas PBO
+Project PBO Menghitung Telur Ayam
